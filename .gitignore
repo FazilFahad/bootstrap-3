@@ -1,0 +1,10 @@
+/node_modules
+/node_modules/*
+/psd
+/psd/*
+.DS_Store
+Thumbs.db
+.tmp
+.log
+assets/css/.sass-cache
+assets/css/.sass-cache/*
